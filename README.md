@@ -8,10 +8,6 @@ e cada dia busco aperfeiçoar e potencializar meu aprendizado! Como base ultiliz
 
  <h3 align="left">Connect with me:</h3>       
  <a href="https://www.instagram.com/glrdbernardo/"> <img src="https://tse3.mm.bing.net/th/id/OIP.Go2CQNhF_49tkKcpEl_sHQHaHZ?rs=1&pid=ImgDetMain&o=7&rm=3" width= "30px" alt=""> </a> 
+ <a href="https://giliarde.bernardo@gmail.com"> </a>
  
  
- 
-<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BERNARDO1995)](https://github.com/anuraghazra/github-readme-stats)
-  <h3 align="left">Languages and Tools:</h3>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BERNARDO1995)](https://github.com/anuraghazra/github-readme-stats)

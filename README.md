@@ -7,7 +7,7 @@ e cada dia busco aperfeiçoar e potencializar meu aprendizado! Como base ultiliz
 <br>
 
  <h3 align="left">Connect with me:</h3>       
- <a href="https://www.instagram.com/glrdbernardo/"> <img src="https://tse3.mm.bing.net/th/id/OIP.Go2CQNhF_49tkKcpEl_sHQHaHZ?rs=1&pid=ImgDetMain&o=7&rm=3" width= "30px" alt=""> </a> 
+ <a href="https://www.instagram.com/glrdbernardo/"> <img src="https://tse3.mm.bing.net/th/id/OIP.Go2CQNhF_49tkKcpEl_sHQHaHZ?rs=1&pid=ImgDetMain&o=7&rm=3" width= "30px" border-radius: 50px; alt=""> </a> 
  <a href="https://giliarde.bernardo@gmail.com"> </a>
  
  
